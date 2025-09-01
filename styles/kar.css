@@ -20,3 +20,12 @@ h1,p{
 a{
 	color:rgba(270,0,340);
 }
+.mybg{
+	width:800px;
+	height:800px;
+	background-size:50%;
+	background-image:url("../pic/a.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:left;
+}
