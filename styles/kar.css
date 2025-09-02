@@ -42,3 +42,13 @@ th,tr,td{
 	margin-bottom:30px;
 	padding:5px 6px;
 }
+.bord{
+	font-size:50px;
+	width:480px;
+	height:60%;
+	background-color:brown;
+}
+/* 1 rem = 16 px به صورت پیش فرض*/
+.pic{
+	width:50vw;
+}
