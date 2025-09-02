@@ -29,3 +29,16 @@ a{
 	background-attachment:fixed;
 	background-position:left;
 }
+table{
+	border-width:3px;
+	border-style:solid;
+	border-color:green;
+	border-radius:5px;
+}
+th,tr,td{
+	border:2px dashed blue;
+}
+.text3{
+	margin-bottom:30px;
+	padding:5px 6px;
+}
