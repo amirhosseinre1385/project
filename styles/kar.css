@@ -57,8 +57,8 @@ th,tr,td{
 }
 #box{
 	font-size:24px;
-	width:300px;
-	height:300px;
+	width:500px;
+	height:500px;
 	border: 15px solid red;
 	padding:15px;
 	margin:20px;
@@ -69,10 +69,17 @@ th,tr,td{
 	text-align:center;
 	margin:0px;
 	text-decoration:underline;
+	text-transform:upercase;
 }
 button{
 	font-size:22px;
 	width:200px;
 	margin:auto;
 	outline:2px solid blue;
+}
+.font{
+	text-indent:24px;
+	line-height:38px;
+	letter-spacing:30px;
+	text-shadow:2px 2px 0px blue;
 }
